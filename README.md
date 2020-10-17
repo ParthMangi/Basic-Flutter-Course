@@ -47,5 +47,14 @@ This my flutter learning which I have done to add new skill set.
 * [What is Padding Class?](https://docs.flutter.io/flutter/widgets/Padding-class.html)
 * [What is ListTile Class?](https://docs.flutter.io/flutter/material/ListTile-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://docs.flutter.io/flutter/material/Divider-class.html)
+
+## Section 6: Dicee - Building Apps with State (https://github.com/ParthMangi/dicee)
+
+* [What is Expanded Class ?](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
+* [How to use Image Widget?](https://docs.flutter.io/flutter/widgets/Image-class.html)
+* [Use FlatButton](https://docs.flutter.io/flutter/material/FlatButton-class.html)
+* [Run code snippets on DartPad](https://dartpad.dartlang.org/)
+* [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
+* [Use random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
  
 
