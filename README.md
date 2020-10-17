@@ -30,5 +30,22 @@ This my flutter learning which I have done to add new skill set.
 * [Icons8](https://icons8.com/)
 * [Vecteezy](https://www.vecteezy.com/)
 * [Canva](https://www.canva.com/)
+
+## Section 5: MiCard - How to Build Beautiful UIs with Flutter Widgets (https://github.com/ParthMangi/MiCard)
+
+* [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
+* [What is Container?](https://docs.flutter.io/flutter/widgets/Container-class.html)
+* [What is Column?](https://docs.flutter.io/flutter/widgets/Column-class.html)
+* [What is Row?](https://docs.flutter.io/flutter/widgets/Row-class.html)
+* [Tomek's Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
+* [Download fancy fonts from fonts.google.com](https://fonts.google.com/)
+* [How to add fonts to the pubspec.yaml file](https://flutter.dev/docs/cookbook/design/package-fonts)
+* [What is Icons?](https://docs.flutter.io/flutter/material/Icons-class.html)
+* [Use Material Icons](https://material.io/tools/icons/?style=baseline)
+* [Icons on materialpalette.com](https://www.materialpalette.com/icons)
+* [What is Card Class?](https://docs.flutter.io/flutter/material/Card-class.html)
+* [What is Padding Class?](https://docs.flutter.io/flutter/widgets/Padding-class.html)
+* [What is ListTile Class?](https://docs.flutter.io/flutter/material/ListTile-class.html)
+* [Flutter's Horizontal Rule - The Divider](https://docs.flutter.io/flutter/material/Divider-class.html)
  
 
