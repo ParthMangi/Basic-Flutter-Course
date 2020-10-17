@@ -59,7 +59,7 @@ This my flutter learning which I have done to add new skill set.
 
 ## Section 8: Boss Level Challenge 1 - Magic 8 Ball (https://github.com/ParthMangi/magic_8_ball)
 
- * [Create Magic 8 Ball Decision making app] (https://github.com/ParthMangi/magic_8_ball)
+ * [Create Magic 8 Ball Decision making app](https://github.com/ParthMangi/magic_8_ball)
 
 
  
