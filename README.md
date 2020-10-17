@@ -56,5 +56,11 @@ This my flutter learning which I have done to add new skill set.
 * [Run code snippets on DartPad](https://dartpad.dartlang.org/)
 * [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
 * [Use random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
+
+## Section 8: Boss Level Challenge 1 - Magic 8 Ball
+
+ * [Create Magic 8 Ball Decision making app]
+
+
  
 
