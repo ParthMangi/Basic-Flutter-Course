@@ -1,7 +1,7 @@
 # My Flutter Kickstart Learning
 This my flutter learning which I have done to add new skill set.
 
-# Topics I have learned 
+# Topics covered
 
  ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
  
