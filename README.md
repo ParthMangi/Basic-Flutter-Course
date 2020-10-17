@@ -15,10 +15,7 @@ This my flutter learning which I have done to add new skill set.
 * [iOS Setup Instructions](https://flutter.dev/docs/get-started/install/macos#ios-setup)
 
 
-## Section 3: How to Create Flutter Apps from Scratch (https://github.com/ParthMangi/i_am_poor)
-
-*  [I am rich app](https://github.com/ParthMangi/i_am_rich)
-*  [I am poor app ](https://github.com/ParthMangi/i_am_poor)
+## Section 3: How to Create Flutter Apps from Scratch (https://github.com/ParthMangi/i_am_rich)
 
 * [What is Material Design](https://material.io/)
 * [What is Scaffold](https://docs.flutter.io/flutter/material/Scaffold-class.html)
@@ -27,5 +24,11 @@ This my flutter learning which I have done to add new skill set.
 * [How to use Image Widget](https://docs.flutter.io/flutter/widgets/Image-class.html)
 * [Learnning about the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
 * [How to add Images and Assets in Flutter Project](https://flutter.dev/docs/development/ui/assets-and-images)
+
+## Section 4: I Am Poor - App Challenge (https://github.com/ParthMangi/i_am_poor)
+
+* [Icons8](https://icons8.com/)
+* [Vecteezy](https://www.vecteezy.com/)
+* [Canva](https://www.canva.com/)
  
 
