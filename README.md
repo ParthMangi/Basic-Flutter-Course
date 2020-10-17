@@ -61,7 +61,7 @@ This my flutter learning which I have done to add new skill set.
 
  * [Create Magic 8 Ball Decision making app](https://github.com/ParthMangi/magic_8_ball)
 
-## Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development (https://github.com/ParthMangi/Xylophone)
+## Section 8: Xylophone - Using Flutter and Dart Packages to Speed Up Development (https://github.com/ParthMangi/Xylophone)
 
 * [What is Flutter Packages?](https://pub.dartlang.org/flutter)
 * [How to use Flutter Packages?](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
