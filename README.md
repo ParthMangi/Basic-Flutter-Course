@@ -15,10 +15,10 @@ This my flutter learning which I have done to add new skill set.
 * [iOS Setup Instructions](https://flutter.dev/docs/get-started/install/macos#ios-setup)
 
 
-## Section 3: How to Create Flutter Apps from Scratch 
+## Section 3: How to Create Flutter Apps from Scratch (https://github.com/ParthMangi/i_am_poor)
 
-*  [I am rich](https://github.com/ParthMangi/i_am_rich)
-*  [I am poor](https://github.com/ParthMangi/i_am_poor)
+*  [I am rich app](https://github.com/ParthMangi/i_am_rich)
+*  [I am poor app ](https://github.com/ParthMangi/i_am_poor)
 
 * [What is Material Design](https://material.io/)
 * [What is Scaffold](https://docs.flutter.io/flutter/material/Scaffold-class.html)
